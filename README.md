@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peter-Ba
-- 👀 I’m interested in Code, Comedy, Writing, Rugby, Volleyball and boardgames.
+- 👀 I’m interested in Code, Comedy, Writing, Rugby, Volleyball and boardgames
 - 🌱 I’m currently learning to be a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on blockchain technologies
 
