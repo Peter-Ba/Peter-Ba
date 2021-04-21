@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peter-Ba
 - 👀 I’m interested in Code, Comedy, Writing, Rugby, Volleyball and boardgames
-- 🌱 I’m currently learning to be a Full Stack Web Developer
-- 💞️ I’m looking to collaborate on blockchain technologies
+- 🌱 Currently learning to be a Full Stack Web Developer
+- 💞️ Looking to collaborate on blockchain technologies
 
 <!---
 Peter-Ba/Peter-Ba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
